@@ -5,7 +5,7 @@
 Tom Ruane
 tom.ruane@bl.uk
 
-cdrtools is an open source, unix based suite of cd reading/writing tools developed by Jörg Schilling -  [http://cdrtools.sourceforge.net/private/cdrecord.html](http://cdrtools.sourceforge.net/private/cdrecord.html)
+Cdrtools is an open source, unix based suite of cd reading/writing tools developed by Jörg Schilling -  [http://cdrtools.sourceforge.net/private/cdrecord.html](http://cdrtools.sourceforge.net/private/cdrecord.html)
 
 The quickest way to install cdrtools is via homebrew: `brew install cdrtools`
 
