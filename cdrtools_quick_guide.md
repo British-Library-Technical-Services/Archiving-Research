@@ -7,9 +7,11 @@ tom.ruane@bl.uk
 
 Cdrtools is an open source, unix based suite of cd reading/writing tools developed by Jörg Schilling -  [http://cdrtools.sourceforge.net/private/cdrecord.html](http://cdrtools.sourceforge.net/private/cdrecord.html)
 
-The quickest way to install cdrtools is via homebrew: `brew install cdrtools`
+The quickest way to install cdrtools on MacOS is via homebrew: `brew install cdrtools`
 
-It can also be compiled from sourceforge -  [https://sourceforge.net/projects/cdrtools/](https://sourceforge.net/projects/cdrtools/)
+The source can also be compiled from sourceforge -  [https://sourceforge.net/projects/cdrtools/](https://sourceforge.net/projects/cdrtools/)
+
+Windows operating system will need to run it through a virtual environment like Cygwin - https://www.cygwin.com/
 
 Before you can run any commands you need to prevent the optical drive from mounting the disc, before doing anything else run the following command in the terminal:
 
