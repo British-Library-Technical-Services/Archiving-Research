@@ -1,4 +1,5 @@
 
+
 ![British Library Logo](./assets/BL_Logo_RGB_100pixels_high.jpg)
 # Save our Sounds – Unlocking our Sound Heritage
  ### Absolute Time In Pregroove and CD-R id research
@@ -98,9 +99,9 @@ The CDDB ID can be generated locally but the database it queries for commercial 
 
   
 
-CDDB identifies CDs with a 32-bit number, usually displayed as a hexadecimal number containing 8 digits: XXYYYYZZ. The first two digits (labeled XX) represent a checksum based on the starting times of each track on the CD. The next four digits (YYYY) represent the total time of the CD in seconds from the start of the first track to the end of the last track. The last two digits (ZZ) represent the number of tracks on the CD.
+>CDDB identifies CDs with a 32-bit number, usually displayed as a hexadecimal number containing 8 digits: XXYYYYZZ. The first two digits (labeled XX) represent a checksum based on the starting times of each track on the CD. The next four digits (YYYY) represent the total time of the CD in seconds from the start of the first track to the end of the last track. The last two digits (ZZ) represent the number of tracks on the CD.
 
-(from wikipedia)
+Source - [https://en.wikipedia.org/wiki/CDDB]
 
   
 
@@ -166,9 +167,9 @@ The simplest option going forward would be to append the CDDB ID with some of th
 
 ### Possible further research:
 
-Acoustic ID - [https://acoustid.org/](https://acoustid.org/)
+Acoustic ID; open source tool used to create a sonic “fingerprint” of an audio signal for matching (similat to apps like shazam) - [https://acoustid.org/](https://acoustid.org/)
 
-Open source tool used to create a sonic “fingerprint” of an audio signal for matching (similat to apps like shazam).
+
 
   
 
