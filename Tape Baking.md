@@ -578,6 +578,6 @@ Van Bogart, J., 1995. Magnetic Tape Storage and Handling A Guide for Libraries a
 
 #### Norris, S. (2013)
 
-![Tape baking Table page 1](./assets/baking1.jpg)
-![Tape baking Table page 2](./assets/baking2.jpg)
+![Tape baking Table page 1](./assets/Baking1.jpg)
+![Tape baking Table page 2](./assets/Baking2.jpg)
 
