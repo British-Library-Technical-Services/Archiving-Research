@@ -29,7 +29,7 @@
 
 ## <a class="mozTocH3" name="mozTocId654654"></a>Open Reel Baked 2 Tr (Studer→Prism)
 
-![](./Common process metadata pages_files/Baked 2 Tr (Studer→Prism) diagram.png)  
+![](./Common process metadata files/Baked_2_Tr___Studer-to-Prism_diagram.png)  
 ![](./Common process metadata pages_files/Baked 2 Tr (Studer→Prism).png)  
 
 [Back to top of the page](http://sip-gallery.droppages.com/#top)  
