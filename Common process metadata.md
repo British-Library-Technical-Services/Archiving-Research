@@ -24,125 +24,96 @@
 *   [Processing](http://sip-gallery.droppages.com/#mozTocId138154)
     *   [PCM de-emphasis (for example digital VHS transfer)](http://sip-gallery.droppages.com/#mozTocId72798)
     *   [Shellac Equalization](http://sip-gallery.droppages.com/#mozTocId748782)
-
-# <a class="mozTocH1" name="mozTocId555457"></a>Preparation & Migration  
-
-## <a class="mozTocH3" name="mozTocId654654"></a>Open Reel Baked 2 Tr (Studer→Prism)
-
-![test](./assets/Common-process-metadata-files/Baked_2_Tr___Studer-to-Prism_diagram.png)
-![Tape baking Table page 1](./assets/Baking1.jpg)
-![](./Common process metadata pages_files/Baked 2 Tr (Studer→Prism).png)  
-
-[Back to top of the page](http://sip-gallery.droppages.com/#top)  
-
-## <a class="mozTocH3" name="mozTocId88117"></a>4 Tr (Revox→Rosetta→Prism)
-
-![](./Common process metadata pages_files/4 Tr (Revox→Rosetta→Prism) diagram.png)  
-![](./Common process metadata pages_files/4 Tr (Revox→Rosetta→Prism).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId199816"></a>Compact cassette (Tascam→Titan)
-
-![](./Common process metadata pages_files/CC (Tascam→Titan) diagram.png)  
-![](./Common process metadata pages_files/CC (Tascam→Titan).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH3" name="mozTocId98003"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics→Elberg→Rosetta→RME)
-
-![](./Common process metadata pages_files/Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics→Elberg→Rosetta→RME) diagram.png)  
-![](./Common process metadata pages_files/Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics→Elberg→Rosetta→RME).png)  
-
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
+27
+​
+28
+# <a class="mozTocH1" name="mozTocId555457"></a>Preparation & Migration  
+29
+​
+30
+## <a class="mozTocH3" name="mozTocId654654"></a>Open Reel Baked 2 Tr (Studer-to-Prism)
+31
+​
+32
+![](./assets/Common-process-metadata-files/Baked_2_Tr___Studer-to-Prism_diagram.png)
+33
+![](./assets/Common-process-metadata-files/Baked_2_Tr___Studer-to-Prism.png)  
+34
+​
+35
+[Back to top of the page](http://sip-gallery.droppages.com/#top)  
+36
+​
+37
+## <a class="mozTocH3" name="mozTocId88117"></a>4 Tr (Revox-to-Rosetta-to-Prism)
+38
+​
+39
+![](./assets/Common-process-metadata-files/4_Tr___Revox-to-Rosetta-to-Prism_diagram.png)  
+40
+![](./assets/Common-process-metadata-files/4_Tr___Revox-to-Rosetta-to-Prism.png)  
+41
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+42
+​
+43
+## <a class="mozTocH2" name="mozTocId199816"></a>Compact cassette (Tascam-to-Titan)
+44
+​
+45
+![](./assets/Common-process-metadata-files/CC___Tascam-to-Titan_diagram.png)  
+46
+![](./assets/Common-process-metadata-files/CC___Tascam-to-Titan.png)  
+47
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+48
+​
+49
+## <a class="mozTocH3" name="mozTocId98003"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics-to-Elberg-to-Rosetta-to-RME)
+50
+​
+51
+![](./assets/Common-process-metadata-files/Shellac_or_Laquer_disk_cleaned_with_Ultrasonic_bath_and_Keith_Monks___Technics-to-Elberg-to-Rosetta-to-RME_diagram.png)  
+52
+![](./assets/Common-process-metadata-files/Shellac_or_Laquer_disk_cleaned_with_Ultrasonic_bath_and_Keith_Monks___Technics-to-Elberg-to-Rosetta-to-RME.png)  
+53
+​
+54
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+55
+​
+56
 ## <a class="mozTocH2" name="mozTocId712089"></a>Polished CD-R
-
-![](./Common process metadata pages_files/CD diagram.png)  
-![](./Common process metadata pages_files/CD.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH3" name="mozTocId98003"></a>PCM VHS digital transfer (LG→Sony→Lake people→RME)
-
-![](./Common process metadata pages_files/VHS digital transfer (LG→Sony→Lake people→RME) diagram.png)  
-![](./Common process metadata pages_files/VHS digital transfer (LG→Sony→Lake people→RME).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH3" name="mozTocId475728"></a>PCM Betamax analogue transfer (Sony→Sony→Rosetta)
-
-![](./Common process metadata pages_files/Betamax analogue transfer (Sony→Sony→Rosetta) diagram.png)  
-![](./Common process metadata pages_files/Betamax analogue transfer (Sony→Sony→Rosetta).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId439844"></a>DAT machine (Sony→Titan)
-
-![](./Common process metadata pages_files/DAT machine (Sony→Titan) diagram.png)  
-![](./Common process metadata pages_files/DAT machine (Sony→Titan).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId416260"></a>DAT DDS drive
-
-![](./Common process metadata pages_files/DAT DDS drive diagram.png)  
-![](./Common process metadata pages_files/DAT DDS drive.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId548646"></a>MD digital transfer (via Sonic Stage)
-
-![](./Common process metadata pages_files/MD digital transfer (via Sonic Stage) diagram.png)  
-![](./Common process metadata pages_files/MD digital transfer (via Sonic Stage).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId548646"></a>MD analogue transfer (Sony→Rosetta)
-
-![](./Common process metadata pages_files/MD analogue transfer (Sony→Rosetta) diagram.png)  
-![](./Common process metadata pages_files/MD analogue transfer (Sony→Rosetta).png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-# <a class="mozTocH1" name="mozTocId565196"></a>Capture
-
-## <a class="mozTocH2" name="mozTocId291967"></a>Wavelab recording
-
-![](./Common process metadata pages_files/Capture Wavelab.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId427035"></a>Reaper recording
-
-![](./Common process metadata pages_files/Capture Reaper.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId325502"></a>Sonic stage (MD capture)
-
-![](./Common process metadata pages_files/Capture Sonic Stage.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId723320"></a>VDAT (SSD drive capture)
-
-![](./Common process metadata pages_files/Capture VDAT.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId491581"></a>dBPoweramp (CD capture)
-
-![](./Common process metadata pages_files/Capture DbPowerAmp.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-# <a class="mozTocH1" name="mozTocId629496"></a>Editing
-
-## <a class="mozTocH2" name="mozTocId60521"></a>Wavelab general editing
-
-![](./Common process metadata pages_files/Editing Wavelab.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId258175"></a>Stereo to mono
-
-![](./Common process metadata pages_files/Editing Wavelab stereo to mono.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-# <a class="mozTocH1" name="mozTocId138154"></a>Processing
-
-## <a class="mozTocH2" name="mozTocId72798"></a>PCM de-emphasis (for example digital VHS transfer)
-
-![](./Common process metadata pages_files/Processing Wavelab de-emphasis.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-
-## <a class="mozTocH2" name="mozTocId748782"></a>Shellac Equalization
-
-![](./Common process metadata pages_files/Processing EQ curve.png)  
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)
+57
+​
+58
+![](./assets/Common-process-metadata-files/CD_diagram.png)  
+59
+![](./assets/Common-process-metadata-files/CD.png)  
+60
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+61
+​
+62
+## <a class="mozTocH3" name="mozTocId98003"></a>PCM VHS digital transfer (LG-to-Sony-to-Lake people-to-RME)
+63
+​
+64
+![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake people-to-RME_diagram.png)  
+65
+![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake people-to-RME.png)  
+66
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+67
+​
+68
+## <a class="mozTocH3" name="mozTocId475728"></a>PCM Betamax analogue transfer (Sony-to-Sony-to-Rosetta)
+69
+​
+70
+![](./assets/Common-process-metadata-files/Betamax_analogue_transfer___Sony-to-Sony-to-Rosetta_diagram.png)  
+71
+![](./assets/Common-process-metadata-files/Betamax_analogue_transfer___Sony-to-Sony-to-Rosetta.png)  
+72
+[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+73
