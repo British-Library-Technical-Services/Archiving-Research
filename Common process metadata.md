@@ -33,75 +33,51 @@
 
 [Back to top of the page](#top)  
 
-## <a class="mozTocH3" name="mozTocId88117"></a>4 Tr (Revox → Rosetta → Prism)
-38
-​
-39
+## <a name="4Tr"></a>4 Tr (Revox → Rosetta → Prism)
+
 ![](./assets/Common-process-metadata-files/4_Tr___Revox-to-Rosetta-to-Prism_diagram.png)  
-40
+
 ![](./assets/Common-process-metadata-files/4_Tr___Revox-to-Rosetta-to-Prism.png)  
-41
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-42
-​
-43
-## <a class="mozTocH2" name="mozTocId199816"></a>Compact cassette (Tascam → Titan)
-44
-​
-45
+
+[Back to top of the page](#top)  
+
+## <a name="CC"></a>Compact cassette (Tascam → Titan)
+
 ![](./assets/Common-process-metadata-files/CC___Tascam-to-Titan_diagram.png)  
-46
+
 ![](./assets/Common-process-metadata-files/CC___Tascam-to-Titan.png)  
-47
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-48
-​
-49
-## <a class="mozTocH3" name="mozTocId98003"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics → Elberg → Rosetta → RME)
-50
-​
-51
+
+[Back to top of the page](#top)  
+
+## <a name="KeithMonks"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics → Elberg → Rosetta → RME)
+
 ![](./assets/Common-process-metadata-files/Shellac_or_Laquer_disk_cleaned_with_Ultrasonic_bath_and_Keith_Monks___Technics-to-Elberg-to-Rosetta-to-RME_diagram.png)  
-52
+
 ![](./assets/Common-process-metadata-files/Shellac_or_Laquer_disk_cleaned_with_Ultrasonic_bath_and_Keith_Monks___Technics-to-Elberg-to-Rosetta-to-RME.png)  
-53
-​
-54
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-55
-​
-56
-## <a class="mozTocH2" name="mozTocId712089"></a>Polished CD-R
-57
-​
-58
+
+[Back to top of the page](#top)  
+
+## <a name="Polished"></a>Polished CD-R
+
 ![](./assets/Common-process-metadata-files/CD_diagram.png)  
-59
+
 ![](./assets/Common-process-metadata-files/CD.png)  
-60
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-61
-​
-62
-## <a class="mozTocH3" name="mozTocId98003"></a>PCM VHS digital transfer (LG → Sony → Lake people → RME)
-63
-​
-64
+
+[Back to top of the page](#top)  
+
+## <a name="PCMDigital"></a>PCM VHS digital transfer (LG → Sony → Lake people → RME)
+
 ![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake_people-to-RME_diagram.png)  
-65
+
 ![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake_people-to-RME.png)  
-66
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
-67
-​
-68
-## <a class="mozTocH3" name="mozTocId475728"></a>PCM Betamax analogue transfer (Sony → Sony → Rosetta)
-69
-​
-70
+
+[Back to top of the page](#top)  
+
+## <a name="PCMAnalogue"></a>PCM Betamax analogue transfer (Sony → Sony → Rosetta)
+
 ![](./assets/Common-process-metadata-files/Betamax_analogue_transfer___Sony-to-Sony-to-Rosetta_diagram.png)  
-71
+
 ![](./assets/Common-process-metadata-files/Betamax_analogue_transfer___Sony-to-Sony-to-Rosetta.png)  
-72
-[Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
+
+[Back to top of the page](#top)  
 73
