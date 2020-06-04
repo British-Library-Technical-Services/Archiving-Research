@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-*   [Preparation & Migration](http://sip-gallery.droppages.com/#mozTocId555457)
+*   [Preparation & Migration](#Preparation)
     *   [Open Reel Baked 2 Tr (Studer→Prism)](http://sip-gallery.droppages.com/#mozTocId654654)
     *   [4 Tr (Revox→Rosetta→Prism)](http://sip-gallery.droppages.com/#mozTocId88117)
     *   [Compact cassette (Tascam→Titan)](http://sip-gallery.droppages.com/#mozTocId199816)
@@ -24,13 +24,7 @@
 *   [Processing](http://sip-gallery.droppages.com/#mozTocId138154)
     *   [PCM de-emphasis (for example digital VHS transfer)](http://sip-gallery.droppages.com/#mozTocId72798)
     *   [Shellac Equalization](http://sip-gallery.droppages.com/#mozTocId748782)
-27
-​
-28
-# <a class="mozTocH1" name="mozTocId555457"></a>Preparation & Migration  
-29
-​
-30
+# <a name="Preparation"></a>Preparation & Migration  
 ## <a class="mozTocH3" name="mozTocId654654"></a>Open Reel Baked 2 Tr (Studer-to-Prism)
 31
 ​
