@@ -1,17 +1,17 @@
 <a name="top"></a>
 
 *   [Preparation & Migration](#Preparation)
-    *   [Open Reel Baked 2 Tr (Studer→Prism)](http://sip-gallery.droppages.com/#mozTocId654654)
-    *   [4 Tr (Revox→Rosetta→Prism)](http://sip-gallery.droppages.com/#mozTocId88117)
-    *   [Compact cassette (Tascam→Titan)](http://sip-gallery.droppages.com/#mozTocId199816)
-    *   [Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics→Elberg→Rosetta→RME)](http://sip-gallery.droppages.com/#mozTocId98003)
-    *   [Polished CD-R](http://sip-gallery.droppages.com/#mozTocId712089)
-    *   [PCM VHS digital transfer (LG→Sony→Lake people→RME)](http://sip-gallery.droppages.com/#mozTocId98003)
-    *   [PCM Betamax analogue transfer (Sony→Sony→Rosetta)](http://sip-gallery.droppages.com/#mozTocId475728)
-    *   [DAT machine (Sony→Titan)](http://sip-gallery.droppages.com/#mozTocId439844)
-    *   [DAT DDS drive](http://sip-gallery.droppages.com/#mozTocId416260)
-    *   [MD digital transfer (via Sonic Stage)](http://sip-gallery.droppages.com/#mozTocId548646)
-    *   [MD analogue transfer (Sony→Rosetta)](http://sip-gallery.droppages.com/#mozTocId548646)
+    *   [Open Reel Baked 2 Tr (Studer→Prism)](#2Tr)
+    *   [4 Tr (Revox→Rosetta→Prism)](#4Tr)
+    *   [Compact cassette (Tascam→Titan)](#CC)
+    *   [Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics→Elberg→Rosetta→RME)](#KeithMonks)
+    *   [Polished CD-R](#Polished)
+    *   [PCM VHS digital transfer (LG→Sony→Lake people→RME)](#PCMDigital)
+    *   [PCM Betamax analogue transfer (Sony→Sony→Rosetta)](#PCMAbalogue)
+    *   [DAT machine (Sony→Titan)](#DAT)
+    *   [DAT DDS drive](#DATDDS)
+    *   [MD digital transfer (via Sonic Stage)](#MDDigital)
+    *   [MD analogue transfer (Sony→Rosetta)](#MDAnalogue)
 *   [Capture](http://sip-gallery.droppages.com/#mozTocId565196)
     *   [Wavelab recording](http://sip-gallery.droppages.com/#mozTocId291967)
     *   [Reaper recording](http://sip-gallery.droppages.com/#mozTocId427035)
@@ -24,22 +24,16 @@
 *   [Processing](http://sip-gallery.droppages.com/#mozTocId138154)
     *   [PCM de-emphasis (for example digital VHS transfer)](http://sip-gallery.droppages.com/#mozTocId72798)
     *   [Shellac Equalization](http://sip-gallery.droppages.com/#mozTocId748782)
+
 # <a name="Preparation"></a>Preparation & Migration  
-## <a class="mozTocH3" name="mozTocId654654"></a>Open Reel Baked 2 Tr (Studer-to-Prism)
-31
-​
-32
+## <a name="2Tr"></a>Open Reel Baked 2 Tr (Studer → Prism)
 ![](./assets/Common-process-metadata-files/Baked_2_Tr___Studer-to-Prism_diagram.png)
-33
+
 ![](./assets/Common-process-metadata-files/Baked_2_Tr___Studer-to-Prism.png)  
-34
-​
-35
-[Back to top of the page](http://sip-gallery.droppages.com/#top)  
-36
-​
-37
-## <a class="mozTocH3" name="mozTocId88117"></a>4 Tr (Revox-to-Rosetta-to-Prism)
+
+[Back to top of the page](#top)  
+
+## <a class="mozTocH3" name="mozTocId88117"></a>4 Tr (Revox → Rosetta → Prism)
 38
 ​
 39
@@ -51,7 +45,7 @@
 42
 ​
 43
-## <a class="mozTocH2" name="mozTocId199816"></a>Compact cassette (Tascam-to-Titan)
+## <a class="mozTocH2" name="mozTocId199816"></a>Compact cassette (Tascam → Titan)
 44
 ​
 45
@@ -63,7 +57,7 @@
 48
 ​
 49
-## <a class="mozTocH3" name="mozTocId98003"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics-to-Elberg-to-Rosetta-to-RME)
+## <a class="mozTocH3" name="mozTocId98003"></a>Shellac or Laquer disk cleaned with Ultrasonic bath and Keith Monks (Technics → Elberg → Rosetta → RME)
 50
 ​
 51
@@ -89,19 +83,19 @@
 61
 ​
 62
-## <a class="mozTocH3" name="mozTocId98003"></a>PCM VHS digital transfer (LG-to-Sony-to-Lake people-to-RME)
+## <a class="mozTocH3" name="mozTocId98003"></a>PCM VHS digital transfer (LG → Sony → Lake people → RME)
 63
 ​
 64
-![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake people-to-RME_diagram.png)  
+![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake_people-to-RME_diagram.png)  
 65
-![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake people-to-RME.png)  
+![](./assets/Common-process-metadata-files/VHS_digital_transfer___LG-to-Sony-to-Lake_people-to-RME.png)  
 66
 [Back to top of the page](http://sip-gallery.droppages.com/index.html#top)  
 67
 ​
 68
-## <a class="mozTocH3" name="mozTocId475728"></a>PCM Betamax analogue transfer (Sony-to-Sony-to-Rosetta)
+## <a class="mozTocH3" name="mozTocId475728"></a>PCM Betamax analogue transfer (Sony → Sony → Rosetta)
 69
 ​
 70
