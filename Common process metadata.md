@@ -85,75 +85,75 @@
 
 ## <a name="DAT"></a>DAT machine (Sony→Titan)
 
-![](./assets/Common-process-metadata-files/(DAT_machine___Sony-to-Titan__diagram.png)  
-![](./assets/Common-process-metadata-files/(DAT_machine___Sony-to-Titan.png)  
+![](./assets/Common-process-metadata-files/DAT_machine___Sony-to-Titan__diagram.png)  
+![](./assets/Common-process-metadata-files/DAT_machine___Sony-to-Titan.png)  
 [Back to top of the page](#top)  
 
 ## <a name="DATDDS"></a>DAT DDS drive
 
-![](./assets/Common-process-metadata-files/(DAT_DDS_drive_diagram.png)  
-![](./assets/Common-process-metadata-files/(DAT_DDS_drive.png)  
+![](./assets/Common-process-metadata-files/DAT_DDS_drive_diagram.png)  
+![](./assets/Common-process-metadata-files/DAT_DDS_drive.png)  
 [Back to top of the page](#top)  
 
 ## <a name="MDDigital"></a>MD digital transfer (via Sonic Stage)
 
-![](./assets/Common-process-metadata-files/(MD_digital_transfer___via_Sonic_Stage__diagram.png)  
-![](./assets/Common-process-metadata-files/(MD_digital_transfer___via_Sonic_Stage.png)  
+![](./assets/Common-process-metadata-files/MD_digital_transfer___via_Sonic_Stage__diagram.png)  
+![](./assets/Common-process-metadata-files/MD_digital_transfer___via_Sonic_Stage.png)  
 [Back to top of the page](#top)  
 
 ## <a name="MDAnalogue"></a>MD analogue transfer (Sony→Rosetta)
 
-![](./assets/Common-process-metadata-files/(MD_analogue_transfer___Sony-to-Rosetta__diagram.png)  
-![](./assets/Common-process-metadata-files/(MD_analogue_transfer___Sony-to-Rosetta.png)  
+![](./assets/Common-process-metadata-files/MD_analogue_transfer___Sony-to-Rosetta__diagram.png)  
+![](./assets/Common-process-metadata-files/MD_analogue_transfer___Sony-to-Rosetta.png)  
 [Back to top of the page](#top)  
 
 # <a name="Capture"></a>Capture
 
 ## <a name="WL"></a>Wavelab recording
 
-![](./assets/Common-process-metadata-files/(Capture_Wavelab.png)  
+![](./assets/Common-process-metadata-files/Capture_Wavelab.png)  
 [Back to top of the page](#top)  
 
 ## <a name="Reaper"></a>Reaper recording
 
-![](./assets/Common-process-metadata-files/(Capture_Reaper.png)  
+![](./assets/Common-process-metadata-files/Capture_Reaper.png)  
 [Back to top of the page](#top)  
 
 ## <a name="SonicStage"></a>Sonic stage (MD capture)
 
-![](./assets/Common-process-metadata-files/(Capture_Sonic_Stage.png)  
+![](./assets/Common-process-metadata-files/Capture_Sonic_Stage.png)  
 [Back to top of the page](#top)  
 
 ## <a name="VDAT"></a>VDAT (SSD drive capture)
 
-![](./assets/Common-process-metadata-files/(Capture_VDAT.png)  
+![](./assets/Common-process-metadata-files/Capture_VDAT.png)  
 [Back to top of the page](#top)  
 
 ## <a name="dBPoweramp"></a>dBPoweramp (CD capture)
 
-![](./assets/Common-process-metadata-files/(Capture_DbPowerAmp.png)  
+![](./assets/Common-process-metadata-files/Capture_DbPowerAmp.png)  
 [Back to top of the page](#top)  
 
 # <a name="Editing"></a>Editing
 
 ## <a name="WLEditing"></a>Wavelab general editing
 
-![](./assets/Common-process-metadata-files/(Editing_Wavelab.png)  
+![](./assets/Common-process-metadata-files/Editing_Wavelab.png)  
 [Back to top of the page](#top)  
 
 ## <a name="Stereo2Mono"></a>Stereo to mono
 
-![](./assets/Common-process-metadata-files/(Editing_Wavelab_stereo_to_mono.png)  
+![](./assets/Common-process-metadata-files/Editing_Wavelab_stereo_to_mono.png)  
 [Back to top of the page](#top)  
 
 # <a name="Processing"></a>Processing
 
 ## <a name="DeEmphasis"></a>PCM de-emphasis (for example digital VHS transfer)
 
-![](./assets/Common-process-metadata-files/(Processing_Wavelab_de-emphasis.png)  
+![](./assets/Common-process-metadata-files/Processing_Wavelab_de-emphasis.png)  
 [Back to top of the page](#top)  
 
 ## <a name="ShellacEQ"></a>Shellac Equalization
 
-![](./assets/Common-process-metadata-files/(Processing_EQ_curve.png)  
+![](./assets/Common-process-metadata-files/Processing_EQ_curve.png)  
 [Back to top of the page](#top)
